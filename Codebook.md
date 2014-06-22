@@ -269,7 +269,7 @@ tidy
 180               -0.7913494
 ```
 
-Output of the dataset
+Summary of the dataset
 ---------------------
 
 ```r
